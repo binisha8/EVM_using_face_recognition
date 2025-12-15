@@ -53,22 +53,6 @@ Once a voter is verified:
 
 ---
 
-## 📁 Project Structure
-
-```plaintext
-EVM_using_face_recognition/
-│
-├── dataset/                # Registered voter face images
-├── face_recognition/       # Face detection & recognition logic
-├── arduino_code/           # Arduino programs for voting control
-├── test_images/            # Sample images for testing
-├── requirements.txt        # Python dependencies
-├── main.py                 # Main execution file
-└── README.md               # Project documentation
-```
-
----
-
 ## ⚙️ System Workflow
 
 1. Camera captures the voter's face
